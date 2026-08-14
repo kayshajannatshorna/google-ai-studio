@@ -1,0 +1,7 @@
+{
+  "name": "Smart Land-To-Home",
+  "description": "AI-Powered 2D & 3D House Design and Planning System. Turn land dimensions into complete preliminary floor plans, 100+ room designs, and interactive 3D house visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
